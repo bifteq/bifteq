@@ -19,7 +19,3 @@ class bifteq{
 ## 🔧 Languages
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
 - ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
-
-<h3>🌟 Contacts!</h3>
-<p align="center">
-<a href="https://bifteq.3d.tc/" target"blank_"><img src=""></a>
