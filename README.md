@@ -12,8 +12,7 @@ class bifteq{
 
 <img src="https://komarev.com/ghpvc/?username=bifteq&label=Ziyaretçi%20Sayısı&color=552b75" alt="bifteq" />
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/708696531225804801)](https://discord.com/users/708696531225804801)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/708696531225804801?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/708696531225804801)
 
 
 
